@@ -1,0 +1,106 @@
+Microsoft Windows [版本 10.0.19045.4291]
+(c) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+C:\Users\Rlulu>systeminfo
+
+主機名稱:             NB-OFFICE-ASUS
+作業系統名稱:         Microsoft Windows 10 專業版
+作業系統版本:         10.0.19045 N/A 組建 19045
+作業系統製造商:       Microsoft Corporation
+作業系統設定:         獨立工作站
+作業系統組建類型:     Multiprocessor Free
+註冊的擁有者:         Rlulu
+註冊公司:
+產品識別碼:           00330-52835-42089-AAOEM
+原始安裝日期:         2022/10/11, 上午 11:57:18
+系統開機時間:         2024/5/2, 上午 07:38:17
+系統製造商:           ASUSTeK COMPUTER INC.
+系統型號:             ASUSPRO P3540FB_P3540FB
+系統類型:             x64-based PC
+處理器:               已安裝 1 處理器。
+                      [01]: Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~1792 Mhz
+BIOS 版本:            ASUSTeK COMPUTER INC. P3540FB.313, 2022/8/23
+Windows 目錄:         C:\Windows
+系統目錄:             C:\Windows\system32
+開機裝置:             \Device\HarddiskVolume2
+系統地區設定:         zh-tw;中文 (台灣)
+輸入法地區設定:       zh-tw;中文 (台灣)
+時區:                 (UTC+08:00) 台北
+實體記憶體總計:       16,235 MB
+可用實體記憶體:       7,854 MB
+虛擬記憶體: 大小上限: 18,667 MB
+虛擬記憶體: 可用:     8,689 MB
+虛擬記憶體: 使用中:   9,978 MB
+分頁檔位置:           C:\pagefile.sys
+網域:                 WORKGROUP
+登入伺服器:           \\NB-OFFICE-ASUS
+Hotfix:               已安裝 26 Hotfix。
+                      [01]: KB5036618
+                      [02]: KB5028853
+                      [03]: KB5003791
+                      [04]: KB5011048
+                      [05]: KB5011051
+                      [06]: KB5012170
+                      [07]: KB5015684
+                      [08]: KB5036892
+                      [09]: KB5016705
+                      [10]: KB5018506
+                      [11]: KB5020372
+                      [12]: KB5022924
+                      [13]: KB5023794
+                      [14]: KB5025315
+                      [15]: KB5026879
+                      [16]: KB5028318
+                      [17]: KB5028380
+                      [18]: KB5029709
+                      [19]: KB5030506
+                      [20]: KB5031539
+                      [21]: KB5032392
+                      [22]: KB5032907
+                      [23]: KB5034224
+                      [24]: KB5036447
+                      [25]: KB5037018
+                      [26]: KB5005699
+網路卡:               已安裝 6 NIC。
+                      [01]: Intel(R) Wireless-AC 9560 160MHz
+                            連線名稱:           Wi-Fi
+                            狀態:               媒體已中斷連線
+                      [02]: Realtek PCIe GbE Family Controller
+                            連線名稱:           DUT1-192.168.10.200 192.168.2.101
+                            DHCP 已啟用:          否
+                            IP 位址
+                            [01]: 192.168.10.200
+                            [02]: 192.168.2.101
+                            [03]: 10.10.12.200
+                            [04]: fe80::5687:e208:9811:40e1
+                      [03]: Bluetooth Device (Personal Area Network)
+                            連線名稱:           藍牙網路連線
+                            狀態:               硬體不存在
+                      [04]: VirtualBox Host-Only Ethernet Adapter
+                            連線名稱:           乙太網路 5
+                            DHCP 已啟用:          否
+                            IP 位址
+                            [01]: 192.168.56.1
+                            [02]: fe80::fae9:298:c310:17ba
+                      [05]: Apple Mobile Device Ethernet
+                            連線名稱:           Apple
+                            DHCP 已啟用:          是
+                            DHCP 伺服器:        172.20.10.1
+                            IP 位址
+                            [01]: 172.20.10.2
+                            [02]: fe80::fd1c:2c21:b4fa:451f
+                            [03]: 2001:b400:e282:6404:5d39:3bd3:222f:46d8
+                            [04]: 2001:b400:e282:6404:fcc0:7c1b:8912:d6d6
+                      [06]: ASIX USB to Gigabit Ethernet Family Adapter
+                            連線名稱:           DUT2-192.168.0.102,192.168.3.101
+                            DHCP 已啟用:          否
+                            IP 位址
+                            [01]: 192.168.3.101
+                            [02]: 192.168.0.102
+                            [03]: fe80::4f1:a8e:3128:f6f6
+Hyper-V 需求:         VM 監視器模式擴充: 是
+                      韌體中已啟用虛擬化: 是
+                      第二層位址轉譯: 是
+                      具有資料執行防止: 是
+
+C:\Users\Rlulu>
