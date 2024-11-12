@@ -1,0 +1,1 @@
+certUtil -hashfile ${::TIP_CERTS_PATH}${gz_file}/cas.pem MD5
