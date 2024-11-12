@@ -1,0 +1,1 @@
+tar -xvzf ${::TIP_CERT} -C ${gz_file}
