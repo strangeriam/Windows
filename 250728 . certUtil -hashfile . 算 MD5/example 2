@@ -1,0 +1,13 @@
+Microsoft Windows [版本 10.0.19045.6093]
+(c) Microsoft Corporation. 著作權所有，並保留一切權利。
+
+D:\>cd D:\Dropbox\12-Office-SyncMTS-Switch\05_ECS5550-30X_54X\01_ECS5550_X_V3.2.1.253.1E.01A\extapp\FTP_TFTP_AUTO\
+
+D:\Dropbox\12-Office-SyncMTS-Switch\05_ECS5550-30X_54X\01_ECS5550_X_V3.2.1.253.1E.01A\extapp\FTP_TFTP_AUTO>CertUtil -hashfile ECS5550_TIP_V3.2.1.253.ubinize MD5
+MD5 的 ECS5550_TIP_V3.2.1.253.ubinize 雜湊:
+dec048c6fe9d9ed2d09e452d4860e77b
+CertUtil: -hashfile 命令成功完成。
+
+D:\Dropbox\12-Office-SyncMTS-Switch\05_ECS5550-30X_54X\01_ECS5550_X_V3.2.1.253.1E.01A\extapp\FTP_TFTP_AUTO>cd /
+
+D:\>
